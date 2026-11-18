@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+*.swp
+*~
+
+# Build artifacts
+Kerio Control.app/
+dist/
+*.o
+*.dylib
+*.dSYM/
